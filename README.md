@@ -5,7 +5,6 @@
 
 English / [简体中文](./README_CN.md)
 
-One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 
 [Demo](https://chat-gpt-next-web.vercel.app/) / [Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Join Discord](https://discord.gg/zrhvHCr79N) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
